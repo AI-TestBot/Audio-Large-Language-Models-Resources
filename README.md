@@ -1,2 +1,2 @@
-# Audio-Large-Language-Models-Resources
-Resources for Audio Large Language Models
+# Audio-Language-Models-Testing-Resources
+Resources for Audio Language Models Testing
