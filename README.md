@@ -20,6 +20,13 @@ arxiv:2409.07437, 2024.
 [[ArXiv](https://arxiv.org/pdf/2409.07437)]
 [[Homepage](https://pages.cs.huji.ac.il/adiyoss-lab/salmon/)]
 
+## Multilingual
+
+**Ml-superb: Multilingual speech universal performance benchmark.**<br>
+*J Shi, D Berrebbi, W Chen, HL Chung, EP Hu, WP Huang, X Chang, SW Li, et al.*<br>
+arxiv:2305.10615, 2023.
+[[ArXiv](https://arxiv.org/pdf/2305.10615)]
+
 ## Dialogue
 
 **SD-Eval: A Benchmark Dataset for Spoken Dialogue Understanding Beyond Words.**<br>
